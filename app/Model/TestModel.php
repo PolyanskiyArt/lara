@@ -5,7 +5,7 @@ use Illuminate\Support\Facades\DB;
 
 class TestModel
 {
-    public function test()
+    public function getOne()
     {
         return 1;
     }
